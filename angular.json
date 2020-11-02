@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "quete6"
+    }
+  },
+  "defaultProject": "quete6",
+  "cli": {
+    "analytics": false
+  }
 }
